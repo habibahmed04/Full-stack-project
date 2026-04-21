@@ -1,4 +1,4 @@
-# 🍔 Full Stack Restaurant App
+# 🍔 Full Stack restaurant-booking-system
 
 A full-stack web application built using **React** for the frontend and **Laravel** for the backend.
 The system allows users to browse menu items, register/login, and place bookings/orders.
