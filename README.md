@@ -1,4 +1,4 @@
-# 🍔 Full Stack Food Ordering App
+# 🍔 Full Stack Restaurant App
 
 A full-stack web application built using **React** for the frontend and **Laravel** for the backend.
 The system allows users to browse menu items, register/login, and place bookings/orders.
@@ -16,11 +16,11 @@ The system allows users to browse menu items, register/login, and place bookings
 
 ## ✨ Features
 
-* 🔐 User Authentication (Register / Login)
-* 🍽️ Browse Menu Items
-* 📅 Booking System
-* 👨‍💼 Admin Panel for managing menu items
-* 🔔 Notifications system
+*  User Authentication (Register / Login)
+*  Browse Menu Items
+*  Booking System
+*  Admin Panel for managing menu items
+*  Notifications system
 
 ---
 
