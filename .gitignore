@@ -1,0 +1,11 @@
+# React
+frontend/node_modules
+frontend/build
+
+# Laravel
+backend/vendor
+backend/.env
+
+# General
+.DS_Store
+.env
